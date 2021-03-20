@@ -14,7 +14,7 @@ click==6.7
 CommonMark==0.5.4
 docutils==0.13.1
 imagesize==0.7.1
-Jinja2==2.9.5
+Jinja2==2.11.3
 MarkupSafe==1.0
 packaging==16.8
 Pygments==2.2.0
