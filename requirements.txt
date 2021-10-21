@@ -9,7 +9,7 @@ sphinx-rtd-theme==0.2.4
 -e git+https://github.com/OpenDataServices/sphinxcontrib-opendataservices.git@23ce17656feaa237584af8822bd57ac39b498f93#egg=sphinxcontrib-opendataservices
 alabaster==0.7.10
 appdirs==1.4.3
-Babel==2.3.4
+Babel==2.9.1
 click==6.7
 CommonMark==0.5.4
 docutils==0.13.1
